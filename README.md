@@ -1,0 +1,1 @@
+This project contains Airbnb properites comparison between two cities which are Chicago and New Orleans. It shows how different their customer base and how varied the neigbourhood is in comparison to each other  
